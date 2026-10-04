@@ -1,7 +1,7 @@
 {
     "version": "26.10.4",
     "setup_file": "LUMA_Network_Setup_v26.10.4.exe",
-    "release_notes": "",
+    "release_notes": "Stopped transfers preserve existing files. Improved nesting reliability, Unicode progress, and the preparation dialog layout. The installer payload passed transfer, nesting, format, and interface checks.",
     "download_url": "https://github.com/Yasser9888/almas-contact-update/releases/download/v26.10.4/LUMA_Network_Setup_v26.10.4.exe",
     "sha256": "449fad74e74cf6ade977ad43ca830ab49744a4f5834b3a1cb4d005702fa67646",
     "setup_size": 338707178,
