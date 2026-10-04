@@ -1,9 +1,9 @@
 {
-    "version": "26.10.1",
-    "setup_file": "LUMA_Network_Setup_v26.10.1.exe",
-    "release_notes": "UPDATE....",
-    "download_url": "https://github.com/Yasser9888/almas-contact-update/releases/download/v26.10.1/LUMA_Network_Setup_v26.10.1.exe",
-    "sha256": "252c5061b70e56ec61f105f3dfe521047b3cb758fad573d73fbeed402daa93aa",
-    "setup_size": 330169830,
-    "size": 330169830
+    "version": "26.10.4",
+    "setup_file": "LUMA_Network_Setup_v26.10.4.exe",
+    "release_notes": "",
+    "download_url": "https://github.com/Yasser9888/almas-contact-update/releases/download/v26.10.4/LUMA_Network_Setup_v26.10.4.exe",
+    "sha256": "449fad74e74cf6ade977ad43ca830ab49744a4f5834b3a1cb4d005702fa67646",
+    "setup_size": 338707178,
+    "size": 338707178
 }
