@@ -1,9 +1,15 @@
 {
-    "version": "26.10.7",
-    "setup_file": "LUMA_Network_Setup_v26.10.7.exe",
-    "release_notes": "- Performance improvements and stability enhancements\n- Bug fixes and optimizations",
-    "download_url": "https://github.com/Yasser9888/almas-contact-update/releases/download/v26.10.7/LUMA_Network_Setup_v26.10.7.exe",
-    "sha256": "e6111b368afb7e4cb62837d4ea610cad4847960ceae646fad81a5263edcd7aaa",
-    "setup_size": 339019912,
-    "size": 339019912
+    "payload": {
+        "kind": "update",
+        "product": "network",
+        "version": "26.10.10",
+        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.10.10/LUMA_Network_Setup_v26.10.10.exe",
+        "sha256": "6016ba47c3c09ed53924ac63f077a68863c9c207c3c500b308bf54d7cd52d956",
+        "size": 334661472,
+        "issued_at": 1791656562,
+        "expires_at": 1794248562,
+        "release_notes": ""
+    },
+    "key_id": "luma-network-update-20261010",
+    "signature": "zEh5EUGtxN6agx/v/B83Ji/nr25RUmxulIc79jy8quAoetVWqJDnUd3vJOfxSzA2+ZHKrEioPMI5eWzfSF8hDA=="
 }
