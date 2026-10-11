@@ -4,12 +4,12 @@
         "product": "network",
         "version": "26.10.11",
         "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.10.11/LUMA_Network_Setup_v26.10.11.exe",
-        "sha256": "84812ca6a4cfb3b7943e720850e5ffedaf9f346e17a092e0e78fdbf92311f348",
-        "size": 334670223,
-        "issued_at": 1791711797,
-        "expires_at": 1794303797,
+        "sha256": "76b13f5a106eb1048a080c03d63024e2e6deb633450db17fc5e468be21a4628a",
+        "size": 334670404,
+        "issued_at": 1791719489,
+        "expires_at": 1794311489,
         "release_notes": "- Performance improvements and stability enhancements\n- Bug fixes and optimizations"
     },
     "key_id": "luma-network-update-20261010",
-    "signature": "3qK9XEBc4KPfpayZOZC+UtJY5wD1ZUWdzq6tls70/4j0P//GbAJ3VsvDS/Ak0HCJ+W9J88EIrO2sNhLRYXSZCg=="
+    "signature": "Lf0RByN5kboeZDBNPEJDvRnyv9XJqfMmZM21cwLR8CH31KLKLaQ13cGKz/ZBfFj9FNiKCheGCUFr3GoHfgMyCg=="
 }
