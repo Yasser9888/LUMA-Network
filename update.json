@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "network",
-        "version": "26.10.12",
-        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.10.12/LUMA_Network_Setup_v26.10.12.exe",
-        "sha256": "71baa266b7cf82c2a0780a8c85f322fbada4b712cf8fda1a1311a322f67b7f34",
-        "size": 334690101,
-        "issued_at": 1791808545,
-        "expires_at": 1794400545,
-        "release_notes": "- Performance improvements and stability enhancements\n- Bug fixes and optimizations"
+        "version": "26.10.16",
+        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.10.16/LUMA_Network_Setup_v26.10.16.exe",
+        "sha256": "0c1c91d61fc2151d9efb278b8abb08b10ec0c49895b63999ed8859c6c2fb0071",
+        "size": 338307925,
+        "issued_at": 1792157890,
+        "expires_at": 1794749890,
+        "release_notes": "- Improved reliability of background nesting previews.\n- Includes current production and nesting improvements.\n- Verified installer and signed update integrity."
     },
     "key_id": "luma-network-update-20261010",
-    "signature": "y4OQU9D9xTJIuQwgj5wBskcRFobBEK5Kwzs1F2N5GuckmxSgzraqdrRrJ3dMdHyCIT0vOhSgq72vEFSAju4nAQ=="
+    "signature": "LRtUSr3e8OexnFtD9ob2ULab6MCnou5+yzi3sWO2WAIVaZpQYQ2JwZ+5yPJsQ8kxNQsYIEBfDqx3aAfr7SqvAw=="
 }
