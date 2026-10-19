@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "network",
-        "version": "26.10.19",
-        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.10.19/LUMA_Network_Setup_v26.10.19.exe",
-        "sha256": "a0e56d8a2800e2f6a84b0abafab1286c8082650657c547d83124a34d07e036fd",
-        "size": 338478743,
-        "issued_at": 1792366500,
-        "expires_at": 1794958500,
-        "release_notes": "- Shared files: authenticated Trash/Restore from any paired computer, offline reconciliation, and Add propagation.\n- Persistent per-file color marks: presets, custom color, clear, and peer synchronization.\n- Nested output deletion or Old Download completion updates System Successfully, including verified shared copies.\n- Automatic System-to-System discovery and pairing without connection files or prompts.\n- Silent updates, installer password, single-instance lifecycle and signed payload checks retained."
+        "version": "26.10.20",
+        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.10.20/LUMA_Network_Setup_v26.10.20.exe",
+        "sha256": "5bfd340490f8f6f9f3caa8e72ba29b6022994fc3fea2d1c7bb77fdd35961dad3",
+        "size": 338498237,
+        "issued_at": 1792403646,
+        "expires_at": 1794995646,
+        "release_notes": "- Verify signed updates and valid hardware-bound licenses using trusted server time; Windows clock drift no longer creates a redundant application lockout.\n- Network and System update checks use bounded pinned raw/API fallback and actionable connection/TLS/signature errors.\n- System shows real downloaded MB, total and speed, supports cancellation and Retry, and starts the verified installer silently.\n- Recoverable System startup verification failures remain visible with safe retry; invalid, expired and revoked licenses stay refused.\n- Network keeps resume metadata in its private profile and hides reserved internal sidecars while preserving genuine user JSON and unfinished transfers.\n- Production downloads use readable flat filenames; existing artwork and edits are preserved, and only exact empty legacy internal folders are cleaned.\n- Existing shared Add/Delete/Restore, file color marks, generated Nest output completion, automatic System pairing, single-instance startup, installer password and signed payload protection are retained."
     },
     "key_id": "luma-network-update-20261010",
-    "signature": "anOsTO2KFrRdzTYTYNAoWhtGXKZZVBfMpOb5L2qQIV3+Qw4QhVmN+oXQYzxTTt1uQ7RBpEsP/SirmIasUZFWBQ=="
+    "signature": "+5Zreep9TX5Rk8rIlt1Ku96eg0IM5Vl+oQnhKhF1u93kdK1VdGMHY9ItMpIyaMXKVDBLaINXPXpRux0H3lXpCQ=="
 }
