@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "network",
-        "version": "26.11.3",
-        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.11.3/LUMA_Network_Setup_v26.11.3.exe",
-        "sha256": "a88187242c7edf323b8c4ee4dad63a4f59d12fe9497c04a83232ce70c8f49762",
-        "size": 338611227,
-        "issued_at": 1793698846,
-        "expires_at": 1796290846,
+        "version": "26.11.4",
+        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.11.4/LUMA_Network_Setup_v26.11.4.exe",
+        "sha256": "c0c2eda034c1d49d51620a74f99d657fb5c5faf8db0afb85cced463752913204",
+        "size": 338611565,
+        "issued_at": 1793775095,
+        "expires_at": 1796367095,
         "release_notes": "- Improved synchronization of revised work across connected LUMA System computers.\n- Material timing, roll widths and aliases follow the verified System catalog.\n- More reliable reconnect, revision handling and responsive production windows.\n- Verified native runtime, installer contents and window layouts at 100%, 125% and 150% scaling.\n"
     },
     "key_id": "luma-network-update-20261010",
-    "signature": "d2EygoFyOHplrj/8rSvw+0BB3qzudv1aH6MaXNRNXNeQURR9CAb9VYOa2N0SixrloBbtf73A96/1i2RNdJM1Cg=="
+    "signature": "o48CQMfsIFQiTSWDaV+f3BLVosyqViAdHXPZF+bsm+93gJzX4vo3k06aF4STy0ki7oaGz5McmOvdHdR6HMR/AQ=="
 }
