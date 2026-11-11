@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "network",
-        "version": "26.11.4",
-        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.11.4/LUMA_Network_Setup_v26.11.4.exe",
-        "sha256": "c0c2eda034c1d49d51620a74f99d657fb5c5faf8db0afb85cced463752913204",
-        "size": 338611565,
-        "issued_at": 1793775095,
-        "expires_at": 1796367095,
-        "release_notes": "- Improved synchronization of revised work across connected LUMA System computers.\n- Material timing, roll widths and aliases follow the verified System catalog.\n- More reliable reconnect, revision handling and responsive production windows.\n- Verified native runtime, installer contents and window layouts at 100%, 125% and 150% scaling.\n"
+        "version": "26.11.10",
+        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.11.10/LUMA_Network_Setup_v26.11.10.exe",
+        "sha256": "67762417435730f3ea4e366e71e2303f249809829859707cc6e464a819f62c5d",
+        "size": 338738985,
+        "issued_at": 1794392053,
+        "expires_at": 1796984053,
+        "release_notes": "- Automatically discover and reconnect to eligible Network PCs. Auto-Sync refreshes the queue, and artwork transfers start with Download.\n- Use a larger Roll Preview, saved artwork visibility, and manual per-copy placement and alignment.\n- Save verified rolls in TIFF, PDF, PNG, JPEG, BMP, or WebP. TIFF stays the default, and filenames use whole-centimetre dimensions and material.\n- Move successfully nested originals into recoverable Deleted Files. Restore keeps each job associated with its exact file.\n- Track the print queue from Pending to Successfully, including verified roll archives on another printer.\n"
     },
     "key_id": "luma-network-update-20261010",
-    "signature": "o48CQMfsIFQiTSWDaV+f3BLVosyqViAdHXPZF+bsm+93gJzX4vo3k06aF4STy0ki7oaGz5McmOvdHdR6HMR/AQ=="
+    "signature": "pnxFFX/7Gic7RT998Q8GedjzAPm7KI6JUewPNs15C5TSXeXIHqsKcwrwM/K9owuDDXgTrKzSmOvMEeiOiEhxBA=="
 }
