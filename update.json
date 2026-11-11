@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "network",
-        "version": "26.11.11",
-        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.11.11/LUMA_Network_Setup_v26.11.11.exe",
-        "sha256": "2c57cbdb6afc5305b77c9c17d205e7834e511e19c5f64cb64b7a3a8f89acf478",
-        "size": 338760269,
-        "issued_at": 1794401150,
-        "expires_at": 1796993150,
-        "release_notes": "- Opens long nesting layouts at fit width so the roll fills the preview. Compact controls and a preview-only view leave more room for the artwork.\n- Adds pointer and keyboard zoom, panning, and precise movement in Edit Layout. Left, Center, and Right alignment retain the selected copy and its validated position for export.\n- Keeps file transfers user-initiated. Download and Re-download use the configured Downloads folder.\n"
+        "version": "26.11.12",
+        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.11.12/LUMA_Network_Setup_v26.11.12.exe",
+        "sha256": "0bc24d1e5d72f93a641ca204a9519c89088ff9730f147a2a6fcf8182a9f20457",
+        "size": 338761929,
+        "issued_at": 1794415116,
+        "expires_at": 1797007116,
+        "release_notes": "Restores filename material recognition after an empty or partial System stock update. Flex, Sticker, Photo, Canvas Mat, Canvas Lamah and other built-in material aliases remain available, with correct filter counts and live row updates. Configured aliases retain priority and Nest uses the current System roll stock. Includes the compact, large roll preview and precise layout editing from 26.11.11."
     },
     "key_id": "luma-network-update-20261010",
-    "signature": "M5MXm34xCowV/LypxGfCJB7fLzJ/mDjEbq2F+xSEm0Dbi29hlOhhV3GjdPKrTWNwsW4Si4GMHWglGSXS3KHKBQ=="
+    "signature": "6FxpGcnjWGMWqTOUnVFxsSesnvePkn5xmu1Dft36FWz0hpM6qZc1Im6YCLHMOgNKJv3NTRgCG0tH7w1QUpzHBg=="
 }
