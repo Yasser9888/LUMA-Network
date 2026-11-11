@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "network",
-        "version": "26.11.10",
-        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.11.10/LUMA_Network_Setup_v26.11.10.exe",
-        "sha256": "67762417435730f3ea4e366e71e2303f249809829859707cc6e464a819f62c5d",
-        "size": 338738985,
-        "issued_at": 1794392053,
-        "expires_at": 1796984053,
-        "release_notes": "- Automatically discover and reconnect to eligible Network PCs. Auto-Sync refreshes the queue, and artwork transfers start with Download.\n- Use a larger Roll Preview, saved artwork visibility, and manual per-copy placement and alignment.\n- Save verified rolls in TIFF, PDF, PNG, JPEG, BMP, or WebP. TIFF stays the default, and filenames use whole-centimetre dimensions and material.\n- Move successfully nested originals into recoverable Deleted Files. Restore keeps each job associated with its exact file.\n- Track the print queue from Pending to Successfully, including verified roll archives on another printer.\n"
+        "version": "26.11.11",
+        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.11.11/LUMA_Network_Setup_v26.11.11.exe",
+        "sha256": "2c57cbdb6afc5305b77c9c17d205e7834e511e19c5f64cb64b7a3a8f89acf478",
+        "size": 338760269,
+        "issued_at": 1794401150,
+        "expires_at": 1796993150,
+        "release_notes": "- Opens long nesting layouts at fit width so the roll fills the preview. Compact controls and a preview-only view leave more room for the artwork.\n- Adds pointer and keyboard zoom, panning, and precise movement in Edit Layout. Left, Center, and Right alignment retain the selected copy and its validated position for export.\n- Keeps file transfers user-initiated. Download and Re-download use the configured Downloads folder.\n"
     },
     "key_id": "luma-network-update-20261010",
-    "signature": "pnxFFX/7Gic7RT998Q8GedjzAPm7KI6JUewPNs15C5TSXeXIHqsKcwrwM/K9owuDDXgTrKzSmOvMEeiOiEhxBA=="
+    "signature": "M5MXm34xCowV/LypxGfCJB7fLzJ/mDjEbq2F+xSEm0Dbi29hlOhhV3GjdPKrTWNwsW4Si4GMHWglGSXS3KHKBQ=="
 }
