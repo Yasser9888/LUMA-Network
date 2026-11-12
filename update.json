@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "network",
-        "version": "26.11.12",
-        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.11.12/LUMA_Network_Setup_v26.11.12.exe",
-        "sha256": "0bc24d1e5d72f93a641ca204a9519c89088ff9730f147a2a6fcf8182a9f20457",
-        "size": 338761929,
-        "issued_at": 1794415116,
-        "expires_at": 1797007116,
-        "release_notes": "Restores filename material recognition after an empty or partial System stock update. Flex, Sticker, Photo, Canvas Mat, Canvas Lamah and other built-in material aliases remain available, with correct filter counts and live row updates. Configured aliases retain priority and Nest uses the current System roll stock. Includes the compact, large roll preview and precise layout editing from 26.11.11."
+        "version": "26.11.13",
+        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.11.13/LUMA_Network_Setup_v26.11.13.exe",
+        "sha256": "cf9178a0dbbf429ee47c6d552fce43a5bd7a6f7ba2d69682744c104ee29bdf68",
+        "size": 338773095,
+        "issued_at": 1794475375,
+        "expires_at": 1797067375,
+        "release_notes": "Restores usable Nesting roll stock after an empty System catalogue. Keeps saved custom widths, recovers widths from saved Nest profiles when the material cache was erased, and applies valid new System widths exactly. Empty or unavailable stock no longer erases the saved roll definitions. Uses a connected System with usable stock when the preferred System has none. Includes the compact roll preview and precise layout editing.\n\nJobs sent by System are verified and cached in Documents before Ready To Print. The Download action saves a separate copy in the configured Downloads folder. Trash and Restore sync across printers, and trashed files stay recoverable.\n"
     },
     "key_id": "luma-network-update-20261010",
-    "signature": "6FxpGcnjWGMWqTOUnVFxsSesnvePkn5xmu1Dft36FWz0hpM6qZc1Im6YCLHMOgNKJv3NTRgCG0tH7w1QUpzHBg=="
+    "signature": "4F+/5SNk+n4szlgCwnV4638Ict961Os0OawGM7uZ62rSE0CowiXy8JE/XSF3rtMNOd1H/17khJ814OSt2aKxBQ=="
 }
