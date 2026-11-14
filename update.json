@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "network",
-        "version": "26.11.14",
-        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.11.14/LUMA_Network_Setup_v26.11.14.exe",
-        "sha256": "cb4916de4344aeb505d91caf05c1324d82f62ee0dca33090bb9b75e3035bfb26",
-        "size": 340240258,
-        "issued_at": 1794647313,
-        "expires_at": 1797239313,
-        "release_notes": "- Refined the dashboard, file menus, Connected PCs, Settings, and Nest controls, including clearer button states and the official LUMA logo.\n- Nest opens with the full roll fitted on screen, Layout options expanded, and artwork visible in every section. Zoom and Preview only are available for closer inspection.\n- Fixed file menu actions during refresh, stale selection counts across tabs, and Resume after Stop. Nest validates roll stock for the material you choose."
+        "version": "26.11.15",
+        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.11.15/LUMA_Network_Setup_v26.11.15.exe",
+        "sha256": "9fdca6f32873b687b6e816a293350972b9e32b6dcf4c5657706aa23032e9fe0d",
+        "size": 340261534,
+        "issued_at": 1794660006,
+        "expires_at": 1797252006,
+        "release_notes": "- Receiving PCs show one card when the same verified artwork arrives through both Share and LUMA System. Different artwork with the same filename and size remains visible.\n- Re-download from Other PC refreshes the sender's cached artwork under Documents. Ordinary Download still saves to the configured Downloads folder."
     },
     "key_id": "luma-network-update-20261010",
-    "signature": "YKWv/pAAlwRSwG1nE42F6hNVpoQS7P148Xoz5nLDEt7z8oyQQqGB48xzFJ/AeSmuyqsa/MXbD5JIyyz+rjAlCw=="
+    "signature": "5gKZouwq5/7hU/xbhkXFu5tZWDWgMqCZ2HoC/xdEwvhDf26XF1/SHp7fltYnwfarCRDXB6LNYmZ0leqiMtqmAw=="
 }
