@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "network",
-        "version": "26.11.16",
-        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.11.16/LUMA_Network_Setup_v26.11.16.exe",
-        "sha256": "6a6949fe33dd7247807542f4bced89f782e4ca451adea13de230bf48e9f3b8b6",
-        "size": 340356858,
-        "issued_at": 1794821007,
-        "expires_at": 1797413007,
-        "release_notes": "- Performance improvements and stability enhancements\n- Bug fixes and optimizations"
+        "version": "26.11.17",
+        "download_url": "https://github.com/Yasser9888/LUMA-Network/releases/download/v26.11.17/LUMA_Network_Setup_v26.11.17.exe",
+        "sha256": "376cb21e7a625ace0d62c11c6606a21e3486268c53b9e6a198b30fd8c0e2dfbe",
+        "size": 340452017,
+        "issued_at": 1794916423,
+        "expires_at": 1797508423,
+        "release_notes": ""
     },
     "key_id": "luma-network-update-20261010",
-    "signature": "CPA1OMJhRBI+0FGw9BH36/xbqv2tfZ8wr3kUFvpI4N1H+sfw1Mn6SQeffJ12Wju3nGdYmxvYjP/sTRj5ZrFUAA=="
+    "signature": "gdCsWqzkA72tL5/ciozYu9QQDzp18he0yEb34Dubgbtpecs2VFPN/B2dbG5IkChaRlQBOawcvdGt5l1q8UYABg=="
 }
